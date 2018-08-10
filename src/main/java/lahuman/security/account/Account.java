@@ -1,4 +1,4 @@
-package lahuman.oauth.account;
+package lahuman.security.account;
 
 import lombok.Getter;
 import lombok.Setter;

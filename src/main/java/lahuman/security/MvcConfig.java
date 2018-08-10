@@ -1,4 +1,4 @@
-package lahuman.oauth;
+package lahuman.security;
 
 
 import org.springframework.context.annotation.Configuration;
